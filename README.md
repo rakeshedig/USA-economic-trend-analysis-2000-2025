@@ -1,4 +1,4 @@
-# 📊 Interest Rate, Loan Defaults, and Consumer Spending Analysis (2000–2025)
+# 📊 Effect of Changes in Interest Rates on Consumer Spending & Loan Defaults in USA| Python, Pandas, Matplotlib (2000–2025)
 
 This project analyzes how changes in interest rates have influenced U.S. loan default rates and consumer spending trends over the past 25 years.
 
